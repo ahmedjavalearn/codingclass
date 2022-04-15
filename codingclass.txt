@@ -1,4 +1,10 @@
+public class LearningCode;
+
 public static void main (String args[]){
+
+Scanner  scn= new Scanner(system.in)
+
+LearningCode obj= new LearningCode();
 
 
 
